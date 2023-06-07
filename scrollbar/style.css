@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    padding: 50px;
+    color: white;
+}
+
+body{
+    background: black;
+}
+
+h2{
+    color: white;
+    font-size: 5em;
+}
+
+p{
+    font-size: 3em;
+    color: white;
+}
+
+::-webkit-scrollbar{
+    width: 15px;
+}
+
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(transparent, pink, aqua);
+    border: 2px solid black;
+    border-radius: 5px;
+}

@@ -1,0 +1,38 @@
+#hesapMakinesi{
+    margin: 0 auto;
+    padding: 20px;
+    background-color: coral;
+    width: 400px;
+    border: 3px black solid;
+    border-radius: 4px;
+}
+
+#gösterge{
+    text-align: center;
+    padding: 10px;
+
+}
+
+#sonuç{
+    border: 3px black solid;
+    padding: 10px;
+    border-radius: 4px;
+    width: 80%;
+    height: 40%;
+    font-size: 40px;
+}
+
+
+#butonlar{
+    text-align: center;
+
+}
+
+button{
+    width: 80px;
+    height: 60px;
+    border: 2px black solid;
+    border-radius: 4px;
+    margin: 2px;
+
+}
